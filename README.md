@@ -1,4 +1,4 @@
 # First-Hub-Game
 a test repository for an imaginary game
 
-nah, I have computers.
+Haha, I have computers.
